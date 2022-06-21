@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on nothing ...
 - 🤔 I'm looking for someone who loves writing，some like this https://blog.zhangxiaocai.cn
 - 💬 Ask me about java springboot springcloud juc
-- 📫 How to reach me : look left email or visit my blog https://zhangxiaocai.cn 
+- 📫 How to reach me : look left email or visit my blog https://small-rose.github.io or https://zhangxiaocai.cn 
 - 😄 Pronouns: thinking，writting，learnning
 - ⚡ Fun fact: I losted my girlfirend before i meet her .
 
