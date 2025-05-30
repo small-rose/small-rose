@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I losted my girlfirend before i meet her .
 
 ![small-rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=small-rose&show_icons=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=small-rose)](https://git.io/streak-stats)
