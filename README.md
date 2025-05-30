@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: thinking，writting，learnning
 - ⚡ Fun fact: I losted my girlfirend before i meet her .
 
-![small-rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=small-rose&show_icons=true)
 
+<div style="display: flex;">
+<div style="flex: 1;"> <!-- 左侧内容 -->
+![small-rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=small-rose&show_icons=true)
+</div>
+<div style="flex: 1;"> <!-- 右侧内容 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=small-rose)](https://git.io/streak-stats)
+</div>
+</div>
+
+
+
+
