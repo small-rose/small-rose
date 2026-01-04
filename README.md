@@ -5,15 +5,16 @@
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://zhangxiaocai.cn/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://quills.zhangxiaocai.cn/"><img src="https://img.shields.io/badge/Website-写作-#44cef6" /></a>&emsp;
+    <a href="https://quills.zhangxiaocai.cn/"><img src="https://img.shields.io/badge/Website-写作-44cef6" /></a>&emsp;
     <!--
     <a href="https://space.bilibili.com/597921699/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp; 
     -->
     <a href="https://dash.cloudflare.com/99178e1dc1e336d112f36d752bf114d7/home/domains"><img src="https://img.shields.io/badge/Cloudflare-Cloudflare-c32136" /></a>&emsp;
     <a href="https://vercel.com/smallroses-projects"><img src="https://img.shields.io/badge/Vercel-Vercel-blue" /></a>&emsp;
     <a href="https://docs.zhangxiaocai.cn/"><img src="https://img.shields.io/badge/docs-技术库-007FFF" /></a>&emsp;
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=small-rose&label=github-Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=small-rose&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 <p><b>Technology has the power to make the world a better place</b></p>
 </div>
