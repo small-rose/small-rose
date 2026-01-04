@@ -5,12 +5,13 @@
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://zhangxiaocai.cn/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://quills.zhangxiaocai.cn/"><img src="https://img.shields.io/badge/Website-写作-blue" /></a>&emsp;
-    <a href="https://space.bilibili.com/597921699/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://quills.zhangxiaocai.cn/"><img src="https://img.shields.io/badge/quillswords-写作-#44cef6" /></a>&emsp;
+    <!--
+    <a href="https://space.bilibili.com/597921699/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp; 
+    -->
     <a href="https://dash.cloudflare.com/99178e1dc1e336d112f36d752bf114d7/home/domains"><img src="https://img.shields.io/badge/Cloudflare-Cloudflare-c32136" /></a>&emsp;
     <a href="https://vercel.com/smallroses-projects"><img src="https://img.shields.io/badge/Vercel-Vercel-blue" /></a>&emsp;
-    <a href="https://docs.zhangxiaocai.cn/"><img src="https://img.shields.io/badge/docs-文档库-007FFF" /></a>&emsp;
-    <a href="https://console.cloud.tencent.com/developer"><img src="https://img.shields.io/badge/tencentcloud-腾讯云-00A1E0?logo=tencentcloud&logoColor=white" /></a>&emsp;
+    <a href="https://docs.zhangxiaocai.cn/"><img src="https://img.shields.io/badge/docs-技术库-007FFF" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=small-rose&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
